@@ -29,4 +29,4 @@ The program takes two CSV files as input and writes back the output to a new CSV
 
 ## References
 
-The *Serial Dictatorship and House Allocation* algorithm has been referenced ([Link to code](https://github.com/j2kun/top-trading-cycles/blob/master/serialdictatorship.py)) However, it has been appropriately modified for this problem.
+The *Serial Dictatorship and House Allocation* algorithm has been referenced ([Link to code](https://github.com/j2kun/top-trading-cycles/blob/master/serialdictatorship.py)). However, it has been appropriately modified for this problem.
