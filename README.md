@@ -6,14 +6,15 @@ Program to assign papers to students based on their preferences following the Se
 The program takes two CSV files as input and writes back the output to a new CSV file. Following are the details.
 
 **Input files**
-- student_preferences.csv: Contains the Student IDs and their preferences (Student_ID, Pref1, Pref2, Pref3, Pref4)
-- papers.csv: Contains all the Paper_IDs 
+1. student_preferences.csv: Contains the Student IDs and their preferences (Student_ID, Pref1, Pref2, Pref3, Pref4)
+2. papers.csv: Contains all the Paper_IDs 
 
 **Output file**
-- assignment_result.csv: The allocation results (Student_ID, Paper_ID) are written back to this file
+1. assignment_result.csv: The allocation results (Student_ID, Paper_ID) are written back to this file
 
-- It is assumed that the first row of the input files contains headers.
-- The CSV files in this repository are just an example of the expected format.  
+
+* It is assumed that the first row of the input files contains headers.
+* The CSV files in this repository are just an example of the expected format.  
  
 ## Usage
 
