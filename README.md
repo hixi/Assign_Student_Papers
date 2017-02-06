@@ -25,4 +25,8 @@ The program takes two CSV files as input and writes back the output to a new CSV
 
 **Optional Arguments**
 - -h, --help: Enabling this flag will display the help message and exit
-- -v --verbose: Enabling this flag will produce a verbose output on the command line
+- -v, --verbose: Enabling this flag will produce a verbose output on the command line
+
+## References
+
+The *Serial Dictatorship and House Allocation* algorithm has been referenced ([Link to code](https://github.com/j2kun/top-trading-cycles/blob/master/serialdictatorship.py)) However, it has been appropriately modified for this problem.
